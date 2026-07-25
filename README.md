@@ -1,78 +1,75 @@
-# 👋 Hi, I'm Jasmin Banu
+<p align="center">
+  <a href="https://github.com/TechJas">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=52e06c&fontSize=54&height=90&width=794&text=Hi%2C%20I'm%20Jasmin%20Banu%20%F0%9F%91%8B" alt="Hi, I&#39;m Jasmin Banu 👋" />
+  </a>
+</p>
 
-🎓 B.Tech AI & Data Science | CGPA: 9.68  
-💡 Aspiring Machine Learning Engineer with a strong foundation in Data Science  
-📍 Chennai, India  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Building%20Machine%20Learning%20Applications;Exploring%20Machine%20Learning%2C%20Data%20Science%20%26%20Generative%20AI" alt="Typing headlines" />
+</p>
 
----
+### 🚀 About Me
 
-## 🚀 Profile Overview
+AI &amp; Data Science undergraduate  
+Interested in Machine Learning, Data Science &amp; Generative AI  
+Building practical Machine Learning projects  
+Learning by building and improving end-to-end ML applications  
+Open to Machine Learning &amp; Data Science internship opportunities
 
-I build data-driven solutions by working with real datasets, performing exploratory analysis, and developing machine learning models.
+🔭 &nbsp;I'm currently working on **Building AI-powered healthcare and analytics applications**  
+🌱 &nbsp;I'm currently learning **Machine Learning, Model Deployment, SQL, and Generative AI**  
+👯 &nbsp;I'm looking to collaborate on **Machine Learning, Data Science, and open-source AI projects**  
+💬 &nbsp;Ask me about **Python, Pandas, NumPy, Scikit-learn, and Data Analysis**  
+😄 &nbsp;Pronouns: **She/Her**  
+⚡ &nbsp;Fun fact: **I believe the best way to learn Machine Learning is by building real-world projects.**
 
-My focus is on understanding the full pipeline—from raw data to insights and predictions—and applying it to real-world domains such as healthcare, business analytics, and productivity systems.
+### ⭐ Featured Projects
 
----
+- 🫀 **Heart Disease Prediction** — Machine Learning model for disease prediction using Scikit-learn.
+- ☕ **Café Sales Analytics & Forecasting** — Data analysis and forecasting using Python and Pandas.
+- 🧠 **Alzheimer's Disease Analysis** — Machine Learning project for predictive healthcare analytics.
+- 🤖 **SmartNest AI** — AI-powered assistant built using modern AI tools.
+- 🏥 **Carenium** — Healthcare platform focused on improving patient care workflows.
 
-## 🧠 Core Capabilities
 
-- Performing Exploratory Data Analysis (EDA) on real-world datasets  
-- Building ML pipelines (data preprocessing → model → evaluation)  
-- Developing classification models for structured data problems  
-- Analyzing patterns and extracting actionable insights  
-- Designing basic chatbot workflows and data-driven applications  
+### 🛠️ Tech Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
 
-## 💻 Key Projects
+### 🔗 Connect With Me
 
-### 🫀 Heart Disease Prediction Model
-- Built a classification model using healthcare datasets  
-- Performed preprocessing, feature selection, and evaluation  
+<p align="left">
+  <a href="https://linkedin.com/in/jasminbanu-tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jasmin03banu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### 🎯 Breast Cancer Tumor Prediction
-- Developed ML model for early-stage cancer detection  
-- Visualized model performance for better interpretation  
+### 📊 GitHub Stats
 
-### 📊 Job Efficiency Analysis
-- Analyzed job-related datasets to identify success patterns  
-- Derived insights to understand key influencing factors  
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=TechJas&show_icons=true&theme=tokyonight&title_color=52e06c&icon_color=52e06c&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=TechJas&layout=compact&theme=tokyonight&title_color=52e06c&icon_color=52e06c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-### ☕ Cafe Dataset Analysis
-- Performed EDA on real-world dataset  
-- Identified trends and patterns for business understanding  
+### 📈 Contribution Graph
 
-### 🤖 Smart Nest AI Chatbot
-- Designed a multilingual chatbot with user-focused interaction  
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:** Python, SQL (Foundational)  
-**ML & Data:** Pandas, NumPy, Scikit-learn, Data Preprocessing, EDA  
-**AI Concepts:** Machine Learning Fundamentals, Model Evaluation  
-**Tools:** GitHub, Excel, Power BI, Figma  
-
----
-
-## 🌱 Growth Direction
-
-- Strengthening ML model building and evaluation skills  
-- Improving data analysis and feature engineering techniques  
-- Learning API integration and backend systems  
-- Progressing toward building end-to-end ML systems  
-
----
-
-## 📫 Connect
-
-📧 jasmin03banu@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jasminbanu-tech  
-💻 GitHub: https://github.com/TechJas  
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechJas&bg_color=00000000&color=52e06c&line=52e06c&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-
-## ⚡ Perspective
-
-I focus on understanding data deeply and building models that solve practical problems. My goal is to evolve from data analysis and model building into designing complete machine learning systems.
+<p align="center">
+Thanks for visiting my profile! 🚀<br>
+Feel free to explore my repositories and connect with me.
+</p>
