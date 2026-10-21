@@ -140,7 +140,7 @@ I aim to understand the problem before choosing a model. That means examining da
 ## Let’s connect
 
 <p align="center">
-  <img src="assets/right_pointing.png" alt="Illustrated character pointing toward the contact links" width="170" align="left" />
+  <img src="assets/id.png" alt="Illustrated character pointing toward the contact links" width="170" align="left" />
 </p>
 
 I’m interested in connecting with AI/ML practitioners, data scientists, researchers, and teams working on meaningful data-driven problems.
