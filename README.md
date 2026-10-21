@@ -33,68 +33,75 @@ I’m developing my skills through hands-on projects, experiments, and continuou
 
 ---
 
-## Featured projects
 
-### 01 — AstroHealth
-**Astronaut Biomarker Anomaly Analysis**
+## Featured Projects
 
-*When a measurement looks normal, could its change from someone's usual baseline still be worth investigating?*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 AstroHealth</h3>
+      <p><b>Biomarker Anomaly Analysis</b></p>
+      <p>Explore individual preflight baselines in NASA Inspiration4 CBC/CMP data and investigate unusual deviations.</p>
+      <p><code>Python</code> <code>pandas</code> <code>Streamlit</code></p>
+      <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">Repository</a> ·
+      <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♻️ AgriLoop AI</h3>
+      <p><b>Circular Economy ML Platform</b></p>
+      <p>Explore logistics efficiency and agricultural waste utilisation across India's banana value chain.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>Plotly</code></p>
+      <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">Repository</a> ·
+      <a href="https://aicircular-economy-2026.streamlit.app/">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ EV Prediction</h3>
+      <p><b>Tabular ML & Model Tuning</b></p>
+      <p>Compare classification algorithms and tune hyperparameters using cross-validation.</p>
+      <p><code>pandas</code> <code>scikit-learn</code> <code>GridSearchCV</code></p>
+      <a href="https://github.com/TechJas/EV-prediction-Kaggle">Explore repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 More Experiments</h3>
+      <p><b>Healthcare & Data Analysis</b></p>
+      <p>Smaller projects covering heart disease, breast tumor, Alzheimer's disease, diabetes, and sales analytics.</p>
+      <p><code>Python</code> <code>Data Analysis</code> <code>ML</code></p>
+      <a href="https://github.com/TechJas">Explore all repositories</a>
+    </td>
+  </tr>
+</table>
 
-AstroHealth explores CBC and CMP measurements from NASA’s Inspiration4 mission. The project investigates individual preflight baselines and flags unusual deviations for further review.
+## Tech Stack
 
-- Explores participant-specific baseline comparisons.
-- Applies threshold-based anomaly scoring.
-- Presents results through an interactive Streamlit dashboard.
-- Emphasises the difference between population reference ranges and individual patterns.
-
-**Built with:** Python · pandas · Streamlit · Data Analysis
-
-[Explore the repository](https://github.com/TechJas/git-anomaly_detection_pipeline) · [Launch the demo](https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/)
-
-*Research and educational prototype only; not a diagnostic or clinically validated system.*
-
-### 02 — AgriLoop AI
-**Circular Economy ML Platform**
-
-*How can data help us understand logistics efficiency and agricultural waste utilisation?*
-
-AgriLoop AI brings together data analysis and machine-learning workflows focused on India's banana value chain. It explores logistics, waste utilisation, and operational indicators through interactive analytical modules.
-
-- Works with multiple datasets across the value chain.
-- Includes data cleaning and feature engineering.
-- Explores features such as cost per kilometre and delivery efficiency.
-- Presents analytical outputs in an interactive application.
-
-**Built with:** Python · pandas · scikit-learn · Streamlit · Plotly
-
-[Explore the repository](https://github.com/TechJas/AI_CIRCULAR-ECONOMY) · [Launch the demo](https://aicircular-economy-2026.streamlit.app/)
-
-### 03 — EV Prediction
-**Machine Learning on Tabular Data**
-
-*How do different classification algorithms compare on a large dataset?*
-
-This project explores electric-vehicle-related prediction using a structured machine-learning workflow, including preprocessing, model comparison, and hyperparameter tuning.
-
-- Experiments with Logistic Regression, K-Nearest Neighbors, and Random Forest.
-- Uses cross-validation to evaluate model performance.
-- Applies GridSearchCV for hyperparameter tuning.
-
-**Built with:** Python · pandas · scikit-learn · GridSearchCV
-
-[Explore the repository](https://github.com/TechJas/EV-prediction-Kaggle)
-
----
-
-## More experiments
-
-| Project | Focus | Repository |
-|---|---|---|
-| Heart Disease Mini Prediction Model | Healthcare classification | [View project](https://github.com/TechJas/Heart-Disease-Mini-Prediction-Model-) |
-| Breast Tumor Prediction | Medical data analysis and classification | [View project](https://github.com/TechJas/Prediction-The-Tumor) |
-| Alzheimer's Disease Analysis | Healthcare data exploration | [View project](https://github.com/TechJas/Alzhemeir-Disease-Analysis) |
-| Patient Diabetes Analysis | Diabetes-related data analysis | [View project](https://github.com/TechJas/Patient-Diabetes-Analysis) |
-| Sales Dashboard | Data analysis and visualisation | [View project](https://github.com/TechJas/Sales-Dashboard) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Languages & Data</h3>
+      <code>Python</code> <code>SQL</code><br/>
+      <code>pandas</code> <code>NumPy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning</h3>
+      <code>scikit-learn</code><br/>
+      <code>Logistic Regression</code> <code>KNN</code><br/>
+      <code>Random Forest</code> <code>GridSearchCV</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Visualisation</h3>
+      <code>Matplotlib</code> <code>Plotly</code><br/>
+      <code>Exploratory Data Analysis</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Tools & Apps</h3>
+      <code>Streamlit</code> <code>Jupyter</code><br/>
+      <code>Git</code> <code>GitHub</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
