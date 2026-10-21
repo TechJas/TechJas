@@ -1,9 +1,12 @@
 # Jasmin Banu M. | AI/ML Engineer in Progress
 
-<p align="center">
-  <img src="assets/id.png" alt="Illustrated portrait of Jasmin Banu M." width="190" />
-</p>
-
+<div align="center">
+  <img
+    src="assets/hanging-id-card.svg"
+    alt="Jasmin Banu M. animated hanging ID card"
+    width="300"
+  />
+</div>
 <h3 align="center">AI/ML Engineering · Healthcare AI · Data Science</h3>
 
 <p align="center">
