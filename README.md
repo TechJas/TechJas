@@ -34,9 +34,6 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
 
 ---
 
-
-
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -44,6 +41,20 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
     <img src="assets/featured-projects.svg" alt="Featured AI/ML Projects — AgriLoop AI, AstroHealth, EV Purchase Prediction" width="100%">
   </a>
 </div>
+
+**Explore the repositories and live demos**
+
+- **[AstroHealth](https://github.com/TechJas/git-anomaly_detection_pipeline)** — NASA Inspiration4 biomarker anomaly analysis · [Live demo](https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/)
+- **[AgriLoop AI](https://github.com/TechJas/AI_CIRCULAR-ECONOMY)** — Circular economy and agricultural data platform · [Live demo](https://aicircular-economy-2026.streamlit.app/)
+- **[EV Prediction](https://github.com/TechJas/EV-prediction-Kaggle)** — Electric vehicle purchase prediction and model tuning
+
+---
+
+## 🎓 Education
+
+**B.Tech in Artificial Intelligence and Data Science**  
+Mohamed Sathak A.J. College of Engineering, Chennai  
+2024–2028 · CGPA: 9.80/10
 
 ---
 
@@ -56,7 +67,6 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
 <p align="center">
   <em>Currently strengthening data quality analysis, feature engineering, data leakage prevention, model evaluation, and reproducible ML workflows.</em>
 </p>
-
 
 ---
 
