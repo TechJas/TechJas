@@ -1,4 +1,5 @@
-# Jasmin Banu M. | AI/ML Engineer in Progress
+
+# Jasmin Banu M. | AI/ML Engineering
 
 <div align="center">
   <img
@@ -7,10 +8,11 @@
     width="300"
   />
 </div>
-<h3 align="center">AI/ML Engineering · Healthcare AI · Data Science</h3>
+
+<h3 align="center">AI/ML Engineering · Healthcare Data · Applied Machine Learning</h3>
 
 <p align="center">
-  Building thoughtful machine-learning systems from real-world data.
+  Building practical machine-learning projects from real-world data.
 </p>
 
 <p align="center">
@@ -23,62 +25,79 @@
 
 ## The story behind my work
 
-I’m an undergraduate Artificial Intelligence and Data Science student exploring how machine learning can turn messy, real-world data into useful insights.
+I'm an undergraduate B.Tech Artificial Intelligence and Data Science student building practical machine-learning projects from real-world data.
 
-My interests sit at the intersection of **machine learning, healthcare analytics, and data-driven applications**. I enjoy investigating datasets, understanding what the features actually represent, comparing models, and building interfaces that make analytical results easier to explore.
+My interests span **machine learning, healthcare analytics, and data-driven applications**. I enjoy exploring datasets, understanding feature behaviour, comparing models, and turning analytical results into interactive tools.
 
-I’m developing my skills through hands-on projects, experiments, and continuous learning—with an emphasis on understanding the reasoning behind each technical decision.
-
-**My current focus:** stronger exploratory data analysis, reliable ML workflows, meaningful evaluation, and practical applications.
+**Currently focused on:** exploratory data analysis, reliable evaluation, data leakage prevention, and reproducible ML workflows.
 
 ---
 
+## 🚀 Featured Projects
 
-## Featured Projects
+*Four project stories. One focus: turning real-world data into useful, evidence-driven applications.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧬 AstroHealth</h3>
-      <p><b>Biomarker Anomaly Analysis</b></p>
-      <p>Explore individual preflight baselines in NASA Inspiration4 CBC/CMP data and investigate unusual deviations.</p>
-      <p><code>Python</code> <code>pandas</code> <code>Streamlit</code></p>
-      <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">Repository</a> ·
-      <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/">Live demo</a>
+      <p><strong>01 / HEALTHCARE ANALYTICS</strong></p>
+      <p><strong>When a population range isn't the whole story.</strong></p>
+      <p>Built an exploratory dashboard for NASA Inspiration4 CBC/CMP data, using participant-specific preflight baselines to investigate biomarker deviations across mission timepoints.</p>
+      <p><strong>Technical focus</strong></p>
+      <p><code>Python</code> <code>pandas</code> <code>Streamlit</code> <code>Z-score thresholds</code></p>
+      <p>
+        <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">↗ Explore the code</a> ·
+        <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/">Live dashboard</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>♻️ AgriLoop AI</h3>
-      <p><b>Circular Economy ML Platform</b></p>
-      <p>Explore logistics efficiency and agricultural waste utilisation across India's banana value chain.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>Plotly</code></p>
-      <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">Repository</a> ·
-      <a href="https://aicircular-economy-2026.streamlit.app/">Live demo</a>
+      <p><strong>02 / CIRCULAR ECONOMY</strong></p>
+      <p><strong>Finding value across an agricultural supply chain.</strong></p>
+      <p>Developed an end-to-end ML platform for India's banana value chain, bringing together five datasets and six analytics/prediction modules to explore logistics efficiency and agricultural waste utilisation.</p>
+      <p><strong>Technical focus</strong></p>
+      <p><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>Plotly</code> <code>Streamlit</code></p>
+      <p>
+        <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">↗ Explore the code</a> ·
+        <a href="https://aicircular-economy-2026.streamlit.app/">Live application</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ EV Prediction</h3>
-      <p><b>Tabular ML & Model Tuning</b></p>
-      <p>Compare classification algorithms and tune hyperparameters using cross-validation.</p>
-      <p><code>pandas</code> <code>scikit-learn</code> <code>GridSearchCV</code></p>
-      <a href="https://github.com/TechJas/EV-prediction-Kaggle">Explore repository</a>
+      <h3>⚡ EV Purchase Prediction</h3>
+      <p><strong>03 / TABULAR MACHINE LEARNING</strong></p>
+      <p><strong>Model comparison beyond a single algorithm.</strong></p>
+      <p>Explored a large-scale EV prediction dataset with 668,000+ rows, comparing Logistic Regression, K-Nearest Neighbors and Random Forest, and tuning Logistic Regression with five-fold GridSearchCV.</p>
+      <p><strong>Technical focus</strong></p>
+      <p><code>pandas</code> <code>scikit-learn</code> <code>GridSearchCV</code> <code>Cross-validation</code></p>
+      <p><a href="https://github.com/TechJas/EV-prediction-Kaggle">↗ Explore the code</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📊 More Experiments</h3>
-      <p><b>Healthcare & Data Analysis</b></p>
-      <p>Smaller projects covering heart disease, breast tumor, Alzheimer's disease, diabetes, and sales analytics.</p>
-      <p><code>Python</code> <code>Data Analysis</code> <code>ML</code></p>
-      <a href="https://github.com/TechJas">Explore all repositories</a>
+      <p><strong>04 / HEALTHCARE &amp; DATA ANALYSIS</strong></p>
+      <p><strong>Building fundamentals through varied datasets.</strong></p>
+      <p>Additional experiments explore heart disease, breast tumour, Alzheimer's disease, diabetes and sales analytics—practising data exploration, feature preparation and model evaluation across different problem settings.</p>
+      <p><strong>Technical focus</strong></p>
+      <p><code>Python</code> <code>pandas</code> <code>EDA</code> <code>scikit-learn</code></p>
+      <p><a href="https://github.com/TechJas">↗ Browse all repositories</a></p>
     </td>
   </tr>
 </table>
 
-## Tech Stack
+<p align="center">
+  <em>From understanding the data to communicating the result—every project is a chance to sharpen the engineering process.</em>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Engineering Toolkit
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Languages & Data</h3>
+      <h3>💻 Programming &amp; Data</h3>
       <code>Python</code> <code>SQL</code><br/>
       <code>pandas</code> <code>NumPy</code>
     </td>
@@ -86,82 +105,51 @@ I’m developing my skills through hands-on projects, experiments, and continuou
       <h3>🧠 Machine Learning</h3>
       <code>scikit-learn</code><br/>
       <code>Logistic Regression</code> <code>KNN</code><br/>
-      <code>Random Forest</code> <code>GridSearchCV</code>
+      <code>Random Forest</code> <code>GridSearchCV</code><br/>
+      <code>Cross-validation</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Visualisation</h3>
-      <code>Matplotlib</code> <code>Plotly</code><br/>
-      <code>Exploratory Data Analysis</code>
+      <h3>📊 Data Analysis &amp; Visualisation</h3>
+      <code>Exploratory Data Analysis</code><br/>
+      <code>Matplotlib</code> <code>Plotly</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Tools & Apps</h3>
-      <code>Streamlit</code> <code>Jupyter</code><br/>
+      <h3>⚙️ Applications &amp; Workflow</h3>
+      <code>Streamlit</code> <code>Jupyter Notebook</code><br/>
       <code>Git</code> <code>GitHub</code>
     </td>
   </tr>
 </table>
 
----
-
-## My technical toolkit
-
-**Programming and data**
-
-`Python` `SQL` `pandas` `NumPy`
-
-**Machine learning**
-
-`scikit-learn` `Logistic Regression` `KNN` `Random Forest` `Cross-validation` `GridSearchCV`
-
-**Visualisation and applications**
-
-`Matplotlib` `Plotly` `Streamlit`
-
-**Development workflow**
-
-`Jupyter Notebook` `Git` `GitHub` `Exploratory Data Analysis`
-
-I’m continuing to strengthen my fundamentals in data quality, feature engineering, model evaluation, leakage prevention, and reproducible ML workflows.
+<p>
+  <em>Currently strengthening: data quality analysis, feature engineering, leakage prevention, model evaluation, and reproducible ML workflows.</em>
+</p>
 
 ---
 
-## How I approach a project
+## 🔬 How I Approach a Project
 
 <p align="center">
   <b>Question</b> → <b>Explore</b> → <b>Prepare</b> → <b>Experiment</b> → <b>Evaluate</b> → <b>Communicate</b>
 </p>
 
-I aim to understand the problem before choosing a model. That means examining data quality, identifying meaningful features, selecting suitable evaluation methods, and communicating limitations instead of presenting a score without context.
+I start by understanding the problem before choosing a model. I investigate data quality, examine meaningful features, select appropriate evaluation methods, and communicate limitations alongside results.
+
+For me, a model score is only part of the story. Understanding how that result was obtained matters just as much.
 
 ---
 
-## A little about my direction
+## 🤝 Let's Connect
 
-- 🎓 B.Tech Artificial Intelligence and Data Science, Mohamed Sathak A.J. College of Engineering, Chennai.
-- 📊 Interested in practical machine learning and exploratory data analysis.
-- 🧬 Exploring healthcare analytics and anomaly detection.
-- 🛠️ Building projects that connect data workflows with usable applications.
-- 🌱 Continuously improving my ML fundamentals and technical communication.
-
----
-
-## Let’s connect
+I'm interested in connecting with AI/ML practitioners, data scientists, researchers, and teams working on meaningful data-driven problems.
 
 <p align="center">
-  <img src="assets/id.png" alt="Illustrated character pointing toward the contact links" width="170" align="left" />
+  <a href="https://linkedin.com/in/jasminbanu-tech">LinkedIn</a> ·
+  <a href="https://github.com/TechJas">GitHub</a> ·
+  <a href="mailto:jasmin03banu@gmail.com">Email</a>
 </p>
-
-I’m interested in connecting with AI/ML practitioners, data scientists, researchers, and teams working on meaningful data-driven problems.
-
-<p align="center">
-  <a href="https://linkedin.com/in/jasminbanu-tech">Connect on LinkedIn</a><br/>
-  <a href="https://github.com/TechJas">Explore my GitHub projects</a><br/>
-  <a href="mailto:jasmin03banu@gmail.com">Email me</a>
-</p>
-
----
 
 <p align="center">
   <i>Curious about the data. Careful about the evidence. Always learning.</i>
