@@ -46,41 +46,16 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
 
 ---
 
+## Tech Stack and Toolkit
 
-## 🛠️ Tech Stack & Engineering Toolkit
+<div align="center">
+  <img src="assets/techjas-tech-stack.svg" alt="TechJas Tech Stack and Toolkit" width="100%">
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Programming &amp; Data</h3>
-      <code>Python</code> <code>SQL</code><br/>
-      <code>pandas</code> <code>NumPy</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Machine Learning</h3>
-      <code>scikit-learn</code><br/>
-      <code>Logistic Regression</code> <code>KNN</code><br/>
-      <code>Random Forest</code> <code>GridSearchCV</code><br/>
-      <code>Cross-validation</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data Analysis &amp; Visualisation</h3>
-      <code>Exploratory Data Analysis</code><br/>
-      <code>Matplotlib</code> <code>Plotly</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Applications &amp; Workflow</h3>
-      <code>Streamlit</code> <code>Jupyter Notebook</code><br/>
-      <code>Git</code> <code>GitHub</code>
-    </td>
-  </tr>
-</table>
-
-<p>
-  <em>Currently strengthening: data quality analysis, feature engineering, leakage prevention, model evaluation, and reproducible ML workflows.</em>
+<p align="center">
+  <em>Currently strengthening data quality analysis, feature engineering, data leakage prevention, model evaluation, and reproducible ML workflows.</em>
 </p>
+
 
 ---
 
