@@ -63,12 +63,12 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
 ## 🔬 How I Approach a Project
 
 <p align="center">
-  <b>Question</b> → <b>Explore</b> → <b>Prepare</b> → <b>Experiment</b> → <b>Evaluate</b> → <b>Communicate</b>
+  <b>Question → Explore → Prepare → Experiment → Evaluate → Communicate</b>
 </p>
 
-I start by understanding the problem before choosing a model. I investigate data quality, examine meaningful features, select appropriate evaluation methods, and communicate limitations alongside results.
+I begin by understanding the problem and investigating the data before selecting a model. I examine data quality, explore feature behaviour, choose appropriate evaluation methods, and check for potential data leakage.
 
-For me, a model score is only part of the story. Understanding how that result was obtained matters just as much.
+I aim to communicate not only model results, but also the reasoning, limitations, and evidence behind them.
 
 ---
 
