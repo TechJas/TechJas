@@ -72,16 +72,28 @@ For me, a model score is only part of the story. Understanding how that result w
 
 ---
 
+
 ## 🤝 Let's Connect
 
-I'm interested in connecting with AI/ML practitioners, data scientists, researchers, and teams working on meaningful data-driven problems.
-
 <p align="center">
-  <a href="https://linkedin.com/in/jasminbanu-tech">LinkedIn</a> ·
-  <a href="https://github.com/TechJas">GitHub</a> ·
-  <a href="mailto:jasmin03banu@gmail.com">Email</a>
+  <em>Always open to connecting with people building meaningful AI/ML solutions.</em>
 </p>
 
 <p align="center">
-  <i>Curious about the data. Careful about the evidence. Always learning.</i>
+  <a href="https://linkedin.com/in/jasminbanu-tech" title="Connect on LinkedIn">
+    <img src="assets/linkedin.svg" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TechJas" title="Visit my GitHub">
+    <img src="assets/github.svg" width="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jasmin03banu@gmail.com" title="Send me an email">
+    <img src="assets/email.svg" width="48" alt="Email" />
+  </a>
 </p>
+
+<p align="center">
+  <em>Curious about the data. Careful about the evidence. Always learning.</em>
+</p>
+
