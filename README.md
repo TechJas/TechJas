@@ -35,62 +35,115 @@ My interests span **machine learning, healthcare analytics, and data-driven appl
 
 ## 🚀 Featured Projects
 
-*Four project stories. One focus: turning real-world data into useful, evidence-driven applications.*
+*<code>PROJECTS.LIST</code> &nbsp; <code>./projects.sh --all</code>*
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 AstroHealth</h3>
-      <p><strong>01 / HEALTHCARE ANALYTICS</strong></p>
-      <p><strong>When a population range isn't the whole story.</strong></p>
-      <p>Built an exploratory dashboard for NASA Inspiration4 CBC/CMP data, using participant-specific preflight baselines to investigate biomarker deviations across mission timepoints.</p>
-      <p><strong>Technical focus</strong></p>
-      <p><code>Python</code> <code>pandas</code> <code>Streamlit</code> <code>Z-score thresholds</code></p>
+    <td colspan="2" bgcolor="#351323">
       <p>
-        <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">↗ Explore the code</a> ·
-        <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/">Live dashboard</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♻️ AgriLoop AI</h3>
-      <p><strong>02 / CIRCULAR ECONOMY</strong></p>
-      <p><strong>Finding value across an agricultural supply chain.</strong></p>
-      <p>Developed an end-to-end ML platform for India's banana value chain, bringing together five datasets and six analytics/prediction modules to explore logistics efficiency and agricultural waste utilisation.</p>
-      <p><strong>Technical focus</strong></p>
-      <p><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>Plotly</code> <code>Streamlit</code></p>
-      <p>
-        <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">↗ Explore the code</a> ·
-        <a href="https://aicircular-economy-2026.streamlit.app/">Live application</a>
+        <strong>🍷 TECHJAS / PROJECT SHOWCASE</strong>
+        &nbsp; · &nbsp;
+        <code>4 projects</code>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#24101C">
+      <p><code>● TechJas/AI_CIRCULAR-ECONOMY</code></p>
+      <hr/>
+      <h3>♻️ AgriLoop AI</h3>
+      <p><strong>01 / CIRCULAR ECONOMY</strong></p>
+      <p>Finding value across an agricultural supply chain.</p>
+      <p>
+        An end-to-end ML platform for India's banana value chain, combining five datasets and six analytics/prediction modules.
+      </p>
+      <p>
+        <code>python</code>
+        <code>pandas</code>
+        <code>scikit-learn</code>
+        <code>streamlit</code>
+        <code>plotly</code>
+      </p>
+      <p>
+        <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">↗ Repository</a>
+        ·
+        <a href="https://aicircular-economy-2026.streamlit.app/">Live demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#24101C">
+      <p><code>● TechJas/git-anomaly_detection_pipeline</code></p>
+      <hr/>
+      <h3>🧬 AstroHealth</h3>
+      <p><strong>02 / HEALTHCARE ANALYTICS</strong></p>
+      <p>When a population range isn't the whole story.</p>
+      <p>
+        An exploratory dashboard analysing NASA Inspiration4 CBC/CMP data against participant-specific preflight baselines.
+      </p>
+      <p>
+        <code>python</code>
+        <code>pandas</code>
+        <code>streamlit</code>
+        <code>z-score</code>
+      </p>
+      <p>
+        <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">↗ Repository</a>
+        ·
+        <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/">Live demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#24101C">
+      <p><code>● TechJas/EV-prediction-Kaggle</code></p>
+      <hr/>
       <h3>⚡ EV Purchase Prediction</h3>
       <p><strong>03 / TABULAR MACHINE LEARNING</strong></p>
-      <p><strong>Model comparison beyond a single algorithm.</strong></p>
-      <p>Explored a large-scale EV prediction dataset with 668,000+ rows, comparing Logistic Regression, K-Nearest Neighbors and Random Forest, and tuning Logistic Regression with five-fold GridSearchCV.</p>
-      <p><strong>Technical focus</strong></p>
-      <p><code>pandas</code> <code>scikit-learn</code> <code>GridSearchCV</code> <code>Cross-validation</code></p>
-      <p><a href="https://github.com/TechJas/EV-prediction-Kaggle">↗ Explore the code</a></p>
+      <p>Model comparison beyond a single algorithm.</p>
+      <p>
+        Compared Logistic Regression, KNN and Random Forest, with five-fold GridSearchCV tuning for Logistic Regression on a dataset of 668,000+ rows.
+      </p>
+      <p>
+        <code>python</code>
+        <code>scikit-learn</code>
+        <code>GridSearchCV</code>
+        <code>cross-validation</code>
+      </p>
+      <p>
+        <a href="https://github.com/TechJas/EV-prediction-Kaggle">↗ Explore repository</a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 More Experiments</h3>
-      <p><strong>04 / HEALTHCARE &amp; DATA ANALYSIS</strong></p>
-      <p><strong>Building fundamentals through varied datasets.</strong></p>
-      <p>Additional experiments explore heart disease, breast tumour, Alzheimer's disease, diabetes and sales analytics—practising data exploration, feature preparation and model evaluation across different problem settings.</p>
-      <p><strong>Technical focus</strong></p>
-      <p><code>Python</code> <code>pandas</code> <code>EDA</code> <code>scikit-learn</code></p>
-      <p><a href="https://github.com/TechJas">↗ Browse all repositories</a></p>
+    <td width="50%" valign="top" bgcolor="#24101C">
+      <p><code>● TechJas/Healthcare-Experiments</code></p>
+      <hr/>
+      <h3>📊 Healthcare & Data Experiments</h3>
+      <p><strong>04 / DATA EXPLORATION</strong></p>
+      <p>Building fundamentals through varied datasets.</p>
+      <p>
+        Additional experiments involving heart disease, breast tumour, Alzheimer's disease, diabetes and sales analytics.
+      </p>
+      <p>
+        <code>python</code>
+        <code>pandas</code>
+        <code>EDA</code>
+        <code>machine-learning</code>
+      </p>
+      <p>
+        <a href="https://github.com/TechJas">↗ Browse repositories</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#351323">
+      <p align="center">
+        <em>Curious about the data. Careful about the evidence. Always learning.</em>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <em>From understanding the data to communicating the result—every project is a chance to sharpen the engineering process.</em>
-</p>
 
----
+----
+
 
 ## 🛠️ Tech Stack & Engineering Toolkit
 
