@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" aria-labelledby="title desc">
+  <title id="title">Let's Connect — Jasmin Banu M.</title>
+  <desc id="desc">Clickable LinkedIn, GitHub, and Email links in a burgundy and muted rose theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#351323"/>
+      <stop offset="1" stop-color="#180D16"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0A4C1"/>
+      <stop offset="1" stop-color="#AD416F"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#301522"/>
+      <stop offset="1" stop-color="#21101B"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="844" height="344" rx="24" fill="url(#bg)" stroke="#94516F" stroke-width="1.5"/>
+  <circle cx="815" cy="20" r="104" fill="#AD416F" opacity="0.08"/>
+  <circle cx="25" cy="340" r="90" fill="#8E4C82" opacity="0.09"/>
+  <path d="M300 48 H390 M470 48 H560" stroke="url(#accent)" stroke-width="2" opacity="0.8"/>
+  <path d="M430 37 L441 48 L430 59 L419 48 Z" fill="url(#accent)"/>
+  <text x="430" y="99" text-anchor="middle" fill="#F9DDE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Let's Connect</text>
+  <text x="430" y="129" text-anchor="middle" fill="#C38AA5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Always open to connecting with people building meaningful AI/ML solutions.</text>
+
+  <a href="https://linkedin.com/in/jasminbanu-tech" target="_blank" rel="noopener noreferrer" aria-label="Connect with Jasmin on LinkedIn">
+    <rect x="145" y="155" width="150" height="105" rx="17" fill="url(#card)" stroke="#AD416F" stroke-width="1.7"/>
+    <rect x="146" y="156" width="148" height="103" rx="16" fill="none" stroke="#F0A4C1" stroke-opacity="0.2"/>
+    <rect x="193" y="184" width="14" height="14" rx="2" fill="url(#accent)"/>
+    <rect x="193" y="204" width="14" height="33" rx="2" fill="url(#accent)"/>
+    <path d="M217 204 H231 V209 C235 202 242 201 248 204 C255 207 257 214 257 224 V237 H243 V225 C243 219 242 215 237 215 C232 215 231 220 231 225 V237 H217 Z" fill="url(#accent)"/>
+    <text x="220" y="283" text-anchor="middle" fill="#F9DDE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">LinkedIn</text>
+  </a>
+
+  <a href="https://github.com/TechJas" target="_blank" rel="noopener noreferrer" aria-label="Visit Jasmin's GitHub profile">
+    <rect x="355" y="155" width="150" height="105" rx="17" fill="url(#card)" stroke="#AD416F" stroke-width="1.7"/>
+    <rect x="356" y="156" width="148" height="103" rx="16" fill="none" stroke="#F0A4C1" stroke-opacity="0.2"/>
+    <!-- Clean GitHub mark silhouette built from basic SVG paths -->
+    <path d="M430 178c-12.7 0-23 10.3-23 23 0 10.2 6.6 18.8 15.8 21.9 1.2.2 1.6-.5 1.6-1.1v-4.3c-6.4 1.4-7.8-2.7-7.8-2.7-1-2.6-2.6-3.4-2.6-3.4-2.1-1.4.2-1.4.2-1.4 2.3.2 3.5 2.4 3.5 2.4 2.1 3.5 5.4 2.5 6.7 1.9.2-1.5.8-2.5 1.5-3.1-5.1-.6-10.5-2.6-10.5-11.4 0-2.5.9-4.5 2.4-6.1-.2-.6-1-2.9.2-6 0 0 2-.6 6.3 2.3a21.8 21.8 0 0 1 11.5 0c4.3-2.9 6.3-2.3 6.3-2.3 1.2 3.1.4 5.4.2 6 1.5 1.6 2.4 3.6 2.4 6.1 0 8.8-5.4 10.8-10.6 11.4.9.8 1.6 2.2 1.6 4.4v6.5c0 .6.4 1.3 1.6 1.1 9.2-3.1 15.8-11.7 15.8-21.9 0-12.7-10.3-23-23-23z" fill="url(#accent)"/>
+    <text x="430" y="283" text-anchor="middle" fill="#F9DDE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">GitHub</text>
+  </a>
+
+  <a href="mailto:jasmin03banu@gmail.com" aria-label="Email Jasmin">
+    <rect x="565" y="155" width="150" height="105" rx="17" fill="url(#card)" stroke="#AD416F" stroke-width="1.7"/>
+    <rect x="566" y="156" width="148" height="103" rx="16" fill="none" stroke="#F0A4C1" stroke-opacity="0.2"/>
+    <rect x="605" y="190" width="70" height="43" rx="6" fill="url(#accent)"/>
+    <path d="M608 195 L640 218 L672 195" fill="none" stroke="#301522" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="640" y="283" text-anchor="middle" fill="#F9DDE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Email</text>
+  </a>
+
+  <path d="M100 315 H205 M655 315 H760" stroke="#94516F" stroke-width="1.2"/>
+  <text x="430" y="320" text-anchor="middle" fill="#C38AA5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-style="italic">Curious about the data. Careful about the evidence. Always learning.</text>
+</svg>
