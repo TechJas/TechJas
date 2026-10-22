@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Email">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#351323"/><stop offset="1" stop-color="#180D16"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F0A4C1"/><stop offset="1" stop-color="#AD416F"/></linearGradient></defs>
+<rect x="2" y="2" width="60" height="60" rx="15" fill="url(#bg)" stroke="#94516F" stroke-width="1.5"/>
+<rect x="13" y="19" width="38" height="27" rx="4" fill="url(#a)"/><path d="M15 22l17 13 17-13" fill="none" stroke="#301522" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
