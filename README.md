@@ -1,4 +1,3 @@
-
 # Jasmin Banu M. | AI/ML Engineering
 
 <div align="center">
@@ -23,23 +22,24 @@
 
 ---
 
-
 ## The story behind my work
 
-I'm an undergraduate B.Tech Artificial Intelligence and Data Science student building practical machine-learning projects from real-world data.
+I'm an undergraduate B.Tech student in Artificial Intelligence and Data Science, building practical machine-learning projects from real-world data.
 
-My interests span **machine learning, healthcare analytics, and data-driven applications**. I enjoy exploring datasets, understanding feature behaviour, comparing models, and turning analytical results into interactive tools.
+My interests include **machine learning, healthcare analytics, and applied data science**. I enjoy investigating datasets, understanding feature behaviour, comparing models, and turning analytical findings into useful applications.
 
-**Currently focused on:** exploratory data analysis, reliable evaluation, data leakage prevention, and reproducible ML workflows.
+**Currently focused on:** exploratory data analysis, feature engineering, reliable model evaluation, data leakage prevention, and reproducible ML workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/TechJas/TechJas/blob/main/assets/featured-projects.svg">
-    <img src="assets/featured-projects.svg" alt="Featured AI/ML Projects — AgriLoop AI, AstroHealth, EV Purchase Prediction" width="100%">
-  </a>
+  <img
+    src="assets/featured-projects.svg"
+    alt="Featured AI/ML projects: AgriLoop AI, AstroHealth, EV Prediction, and healthcare ML experiments"
+    width="100%"
+  />
 </div>
 
 **Explore the repositories and live demos**
@@ -61,12 +61,12 @@ Mohamed Sathak A.J. College of Engineering, Chennai
 ## Tech Stack and Toolkit
 
 <div align="center">
-  <img src="assets/techjas-tech-stack.svg" alt="TechJas Tech Stack and Toolkit" width="100%">
+  <img
+    src="assets/techjas-tech-stack.svg"
+    alt="TechJas technical stack and toolkit"
+    width="100%"
+  />
 </div>
-
-<p align="center">
-  <em>Currently strengthening data quality analysis, feature engineering, data leakage prevention, model evaluation, and reproducible ML workflows.</em>
-</p>
 
 ---
 
@@ -81,7 +81,6 @@ I begin by understanding the problem and investigating the data before selecting
 I aim to communicate not only model results, but also the reasoning, limitations, and evidence behind them.
 
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -106,4 +105,3 @@ I aim to communicate not only model results, but also the reasoning, limitations
 <p align="center">
   <em>Curious about the data. Careful about the evidence. Always learning.</em>
 </p>
-
