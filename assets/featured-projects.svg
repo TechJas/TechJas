@@ -21,20 +21,19 @@
       .accent { fill: #F0A4C1; }
       .line { stroke: #78405A; }
       .tag { fill: #432036; stroke: #94516F; stroke-width: 0.8; }
+      .link { cursor: pointer; }
     </style>
   </defs>
 
-  <!-- Dashboard background -->
   <rect x="1" y="1" width="858" height="508" rx="20" fill="url(#bg)" stroke="#B4517C" stroke-width="1.5"/>
   <path d="M2 20 Q2 2 20 2 H840 Q858 2 858 20 V67 H2 Z" fill="#542039" opacity=".48"/>
 
-  <!-- Terminal heading -->
   <text x="30" y="31" class="mono accent" font-size="12" letter-spacing="2">PROJECTS.LIST</text>
   <text x="181" y="31" class="mono muted" font-size="11">./projects.sh --all</text>
   <text x="830" y="31" class="mono accent" font-size="11" text-anchor="end">4 projects</text>
   <path d="M28 51 H832" class="line" stroke-width="1.2"/>
 
-  <!-- Card 1: AgriLoop -->
+  <!-- AgriLoop AI -->
   <g>
     <rect x="28" y="72" width="395" height="194" rx="15" fill="url(#card)" stroke="#A84D78"/>
     <path d="M29 87 Q29 73 43 73 H408 Q422 73 422 87 V104 H29 Z" fill="#592540" opacity=".6"/>
@@ -55,11 +54,15 @@
     <circle cx="377" cy="158" r="25" stroke="url(#accent)" stroke-width="8" stroke-dasharray="118 157" transform="rotate(-90 377 158)"/>
     <text x="377" y="162" class="mono bright" font-size="10" text-anchor="middle">ML</text>
     <path d="M45 228 H406" class="line" opacity=".65"/>
-    <text x="45" y="247" class="mono accent" font-size="10">↗ REPOSITORY</text>
-    <text x="406" y="247" class="mono muted" font-size="10" text-anchor="end">LIVE DEMO ↗</text>
+    <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY" target="_blank">
+      <text x="45" y="247" class="mono accent link" font-size="10">↗ REPOSITORY</text>
+    </a>
+    <a href="https://aicircular-economy-2026.streamlit.app/" target="_blank">
+      <text x="406" y="247" class="mono muted link" font-size="10" text-anchor="end">LIVE DEMO ↗</text>
+    </a>
   </g>
 
-  <!-- Card 2: AstroHealth -->
+  <!-- AstroHealth -->
   <g>
     <rect x="437" y="72" width="395" height="194" rx="15" fill="url(#card)" stroke="#A84D78"/>
     <path d="M438 87 Q438 73 452 73 H817 Q831 73 831 87 V104 H438 Z" fill="#592540" opacity=".6"/>
@@ -80,11 +83,15 @@
     <circle cx="786" cy="158" r="25" stroke="#D77CA2" stroke-width="8" stroke-dasharray="104 157" transform="rotate(-90 786 158)"/>
     <text x="786" y="162" class="mono bright" font-size="10" text-anchor="middle">Z</text>
     <path d="M454 228 H815" class="line" opacity=".65"/>
-    <text x="454" y="247" class="mono accent" font-size="10">↗ REPOSITORY</text>
-    <text x="815" y="247" class="mono muted" font-size="10" text-anchor="end">LIVE DEMO ↗</text>
+    <a href="https://github.com/TechJas/git-anomaly_detection_pipeline" target="_blank">
+      <text x="454" y="247" class="mono accent link" font-size="10">↗ REPOSITORY</text>
+    </a>
+    <a href="https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/" target="_blank">
+      <text x="815" y="247" class="mono muted link" font-size="10" text-anchor="end">LIVE DEMO ↗</text>
+    </a>
   </g>
 
-  <!-- Card 3: EV Prediction -->
+  <!-- EV Prediction -->
   <g>
     <rect x="28" y="280" width="395" height="194" rx="15" fill="url(#card)" stroke="#A84D78"/>
     <path d="M29 295 Q29 281 43 281 H408 Q422 281 422 295 V312 H29 Z" fill="#592540" opacity=".6"/>
@@ -105,15 +112,17 @@
     <circle cx="377" cy="366" r="25" stroke="url(#accent)" stroke-width="8" stroke-dasharray="126 157" transform="rotate(-90 377 366)"/>
     <text x="377" y="370" class="mono bright" font-size="10" text-anchor="middle">CV</text>
     <path d="M45 436 H406" class="line" opacity=".65"/>
-    <text x="45" y="455" class="mono accent" font-size="10">↗ EXPLORE REPOSITORY</text>
+    <a href="https://github.com/TechJas/EV-prediction-Kaggle" target="_blank">
+      <text x="45" y="455" class="mono accent link" font-size="10">↗ EXPLORE REPOSITORY</text>
+    </a>
   </g>
 
-  <!-- Card 4: Other experiments -->
+  <!-- More projects: links to profile, not an unverified repository -->
   <g>
     <rect x="437" y="280" width="395" height="194" rx="15" fill="url(#card)" stroke="#A84D78"/>
     <path d="M438 295 Q438 281 452 281 H817 Q831 281 831 295 V312 H438 Z" fill="#592540" opacity=".6"/>
     <text x="453" y="301" class="mono accent" font-size="10">●</text>
-    <text x="466" y="301" class="mono bright" font-size="10">TechJas/Healthcare-Experiments</text>
+    <text x="466" y="301" class="mono bright" font-size="10">TechJas / more experiments</text>
     <circle cx="812" cy="295" r="4" fill="#D77CA2"/>
     <path d="M437 312 H832" class="line"/>
     <text x="454" y="343" class="mono bright" font-size="17" font-weight="bold">More Experiments _</text>
@@ -129,10 +138,28 @@
     <circle cx="786" cy="366" r="25" stroke="#D77CA2" stroke-width="8" stroke-dasharray="91 157" transform="rotate(-90 786 366)"/>
     <text x="786" y="370" class="mono bright" font-size="10" text-anchor="middle">EDA</text>
     <path d="M454 436 H815" class="line" opacity=".65"/>
-    <text x="454" y="455" class="mono accent" font-size="10">↗ BROWSE REPOSITORIES</text>
+    <a href="https://github.com/TechJas" target="_blank">
+      <text x="454" y="455" class="mono accent link" font-size="10">↗ BROWSE REPOSITORIES</text>
+    </a>
   </g>
 
-  <!-- Footer -->
   <text x="30" y="494" class="mono muted" font-size="10">TECHJAS / MACHINE LEARNING PORTFOLIO</text>
   <text x="830" y="494" class="mono accent" font-size="10" text-anchor="end">BUILD · TEST · LEARN</text>
 </svg>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img
+    src="assets/featured-projects.svg"
+    alt="TechJas featured projects dashboard"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY">♻️ AgriLoop AI</a> ·
+  <a href="https://github.com/TechJas/git-anomaly_detection_pipeline">🧬 AstroHealth</a> ·
+  <a href="https://github.com/TechJas/EV-prediction-Kaggle">⚡ EV Prediction</a> ·
+  <a href="https://github.com/TechJas">📊 More Projects</a>
+</p>
