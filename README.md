@@ -35,11 +35,9 @@ My interests include **machine learning, healthcare analytics, and applied data 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img
-    src="assets/featured-projects.svg"
-    alt="Featured AI/ML projects: AgriLoop AI, AstroHealth, EV Prediction, and healthcare ML experiments"
-    width="100%"
-  />
+  <img src="assets/agriloop-ai-card.svg" alt="Agriloop AI" width="100%">
+  <img src="assets/astrohealth.svg" alt="AstroHealth project card" width="100%">
+  <img src="assets/ev-prediction.svg" alt="EV Prediction project card" width="100%">
 </div>
 
 **Explore the repositories and live demos**
