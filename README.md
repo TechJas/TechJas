@@ -60,7 +60,7 @@ Mohamed Sathak A.J. College of Engineering, Chennai
 
 <div align="center">
   <img
-    src="assets/techjas-tech-stack.svg"
+    src="assets/a_clean_graphic_image_showing_a_grid_of_high_resol.svg"
     alt="TechJas technical stack and toolkit"
     width="100%"
   />
