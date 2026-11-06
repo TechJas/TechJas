@@ -35,9 +35,15 @@ My interests include **machine learning, healthcare analytics, and applied data 
 ## 🚀 Featured Projects
 
 <div align="center">
+ <a href="https://github.com/TechJas/AI_CIRCULAR-ECONOMY" title="View Repository">
   <img src="assets/agriloop-ai.svg" alt="Agriloop AI" width="100%">
+ </a>
+ <a href="https://github.com/TechJas/git-anomaly_detection_pipeline" title="View Repository">
   <img src="assets/astrohealth.svg" alt="AstroHealth project card" width="100%">
+ </a>
+ <a href="https://github.com/TechJas/EV-prediction-Kaggle" title="View Repository">  
   <img src="assets/ev-prediction.svg" alt="EV Prediction project card" width="100%">
+ </a>
 </div>
 
 **Explore the repositories and live demos**
